@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginActivitySaveSharedPreferanceAPI</string>
+
+
+    <string name="user_id">mizan</string>
+    <string name="user_pass">1234</string>
+
+    <string name="login_pref">com.smmizan.loginactivitysavesharedpreferanceapi_login_pref</string>
+    <string name="login_pref_status">com.smmizan.loginactivitysavesharedpreferanceapi_login_pref_status</string>
+
+
+</resources>
